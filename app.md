@@ -38,7 +38,7 @@ Le prix de conception de l'application car un developpeur web est beaucoup moins
 L'application peut s'executer sur toutes les plateformes (Android, iOS, Windows Phone) en gros toutes les plateformes qui peuvent executer un navigateur web
 ```
 
-## Les désaventages d'une application web
+## Les désavantages d'une application web
 ```
 Besoin d'être executé dans un navigateur web, donc par exemple pour acceder a notre application web l'utilisateur devra aller dans son navigateur et taper l'URL donc experience utilisateur très pauvre
 ```
@@ -123,7 +123,7 @@ Utilise HTML/CSS/JS
 Est executé dans un container ou une vue communément grace à un framework
 ```
 
-## Les avantages d'une applications hybride
+## Les avantages d'une application hybride
 
 ```
 Facile à construire car réalisé avec HTML/CSS/JS
