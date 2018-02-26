@@ -77,7 +77,7 @@ Est construit pour une plateforme spécifique
 Construit en utilisant les languages de programmation natifs (Swift, Java)
 ```
 
-## Les avantages d'un application native
+## Les avantages d'une application native
 
 ```
 Très rapide car construit et optimisé pour une plateforme spécifique
